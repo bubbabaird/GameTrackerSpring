@@ -1,3 +1,7 @@
+// This project is integrated with Travis CI and Heroku at:
+// Travis CI : https://travis-ci.org/bubbabaird/GameTrackerSpring/
+// Heroku : https://git.heroku.com/enigmatic-bastion-18737.git
+
 package com.theironyard.charlotte;
 
 import org.springframework.beans.factory.annotation.Autowired;
